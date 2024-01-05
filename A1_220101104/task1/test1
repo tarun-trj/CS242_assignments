@@ -1,0 +1,11 @@
+/* The greeting program. This program demonstrates */
+/* some of the components of a simple C program */
+/* Written by: Tarun Raj */
+/* Date: 19-08-2023 */
+#include <stdio.h>
+int main (void)
+{
+/* Statements */
+ printf(“Hello World\n”);
+ return 0;
+} /* main */
