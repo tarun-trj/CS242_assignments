@@ -1,5 +1,5 @@
 # ASSIGNMENT 4:
-
+---
 ### Name: Tarun Raj
 ### Roll No. 220101104
 
@@ -60,8 +60,7 @@ Leading zeros are eliminated from consideration
 5. **Multiple Solutions:**
    - The test code attempts to generate all solutions to ensure uniqueness. If the puzzle has multiple solutions, the solver will find and present them.
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+---
 # TASK 2: CREATING THE REQUESTED LATEX DOCUMENT
 
 ## Overview
